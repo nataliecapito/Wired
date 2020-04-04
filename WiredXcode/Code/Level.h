@@ -1,0 +1,3 @@
+@interface Level : CCNode
+
+@end
