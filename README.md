@@ -20,9 +20,9 @@ Catches anything that is incorrect in building.
 ## Example Images
 | O.P | Panel | |
 | --- | --- | --- |
-| `IOS` | Home | ![Wired-preview-page](../public/images/preview_images/old-xcode-images/Wired-preview.png) |
-| `IOS` | Introduction | ![Wired-preview-page](../public/images/preview_images/old-xcode-images/Wired-instructions-preview.png) |
-| `IOS` | Game Play | ![Wired-game-page](../public/images/preview_images/old-xcode-images/Wired-game-preview.png) |
-| `IOS` | Game Over | ![Wired-preview-page](../public/images/preview_images/old-xcode-images/Wired-lose-preview.png) |
+| `IOS` | Home | ![Wired-preview-page](./public/images/preview_images/old-xcode-images/Wired-preview.png) |
+| `IOS` | Introduction | ![Wired-preview-page](./public/images/preview_images/old-xcode-images/Wired-instructions-preview.png) |
+| `IOS` | Game Play | ![Wired-game-page](./public/images/preview_images/old-xcode-images/Wired-game-preview.png) |
+| `IOS` | Game Over | ![Wired-preview-page](./public/images/preview_images/old-xcode-images/Wired-lose-preview.png) |
 
 ### Updated: 06/09/18
